@@ -1,0 +1,31 @@
+h1 {
+    color: #000;
+    padding: 20px 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.list-group-item:hover {
+    background: aquamarine;
+}
+
+span:hover {
+    background: darkred;
+}
+
+#myShoppingList {
+    background: lavender;
+    width: 340px!important;
+    float: initial!important;
+    margin: 0px 0px 0px 30px;
+    border-radius: 10px; 
+}
+
+#input {
+    padding: 20px 0px 30px 0px;
+    margin-left: 35px; 
+}
+
+.bg-danger {
+    background-color: #d9534f;
+    color: #fff;
+}
